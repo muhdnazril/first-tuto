@@ -1,0 +1,25 @@
+.text-title {
+    font-size: 5rem;
+    color: rgb(255, 118, 118);
+    text-transform: uppercase;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.nav-btn {
+    margin-left: 10px;
+}
+
+.signin {
+    background: #8ab4f8;
+    border: 1px solid transparent;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #202124;
+    padding: 0.5rem 1rem;
+    margin-left: 10px;
+    margin-right: 10px;
+}
